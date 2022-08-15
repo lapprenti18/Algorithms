@@ -36,8 +36,3 @@ In Dynamic Programming, divide the complex problem into smaller overlapping subp
 and storing the result for future use.
 <br>
 <br>
-
-exemple:
-  Parent = 
-
-
