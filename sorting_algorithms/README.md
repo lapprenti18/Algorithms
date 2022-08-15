@@ -8,16 +8,14 @@
   * [Selection Sort](https://github.com/lapprenti18/Algorithms/tree/main/sorting_algorithms/selection_sort)
 <br>
 <br>
-
 ### Stable :
 &nbsp; &nbsp; An algorithm is stable if
- * a stable sorting algorithm preserves the order of records with equal keys<br>
-<br>
+ * a stable sorting algorithm preserves the order of records with equal keys<br>\
 for example:<br>
 &nbsp; we have this list -> (5,3),(1,5),(3,3),(1,3) | here the fist number is the number, the second is the key <br>
 &nbsp; A stable algorithm can only return (1,5),(1,3),(3,3),(5,3) <br>
 &nbsp; where a non stable algorithm can return (1,5),(1,3),(3,3),(5,3) or (1,3),(1,5),(3,3),(5,3)
-
+<br>
 <br>
 
 ### In place :
