@@ -7,7 +7,7 @@
   * [Heap Sort](https://github.com/lapprenti18/Algorithms/tree/main/sorting_algorithms/heap_sort)
   * [Selection Sort](https://github.com/lapprenti18/Algorithms/tree/main/sorting_algorithms/selection_sort)
 <br>
-<br>
+
 ### Stable :
 &nbsp; &nbsp; An algorithm is stable if
  * a stable sorting algorithm preserves the order of records with equal keys<br>\
