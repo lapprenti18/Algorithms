@@ -22,6 +22,7 @@ if __name__ == "__main__":
   thread_pool.append(threading.Thread(target=getFunctionTime('selection_sort', selection_sort, copy.deepcopy(array))))
   thread_pool.append(threading.Thread(target=getFunctionTime('insertion_sort', insertion_sort, copy.deepcopy(array))))
   thread_pool.append(threading.Thread(target=getFunctionTime('counting_sort', counting_sort, copy.deepcopy(array))))
+  thread_pool.append(threading.Thread(target=getFunctionTime('bubble_sort', bubble_sort, copy.deepcopy(array))))
   
   map(lambda thread: thread.start(), thread_pool)
   map(lambda thread: thread.join(), thread_pool)
